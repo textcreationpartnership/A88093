@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lex talionis. Or, A declamation against Mr. Challener, the crimes of the times, and the manners of you know whom.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88093</idno><idno type="EEBO-CITATION">99862156</idno>
+  <idno type="VID">160351</idno>
+  <idno type="EEBO-PROQUEST">2240945157</idno>
+  
+            <idno type="STC">Wing L1861</idno>
+            <idno type="STC">Thomason E396_20</idno>
+            <idno type="STC">ESTC R201656</idno>
+            <idno type="PROQUEST">99862156</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862156e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160351)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lex talionis. Or, A declamation against Mr. Challener, the crimes of the times, and the manners of you know whom.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chaloner, Thomas, 1595-1661 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160351:1"/>
+            <p>
+               <hi>LEX TALIONIS.</hi> OR, A Declamation against M<seg rend="sup">r</seg>. CHALLENER, The Crimes of the Times, and the Manners of You know whom.</p>
+            <q>
+               <l>In quo quis peccat, in eo punitur.</l>
+               <l>—Nec Lex est justior ulla,</l>
+               <l>Quam necis artifices arte perire sua.</l>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JUDGES 1.</hi> vers. <hi>7.</hi>
+               </bibl>
+               <p>And Adonibezek said. As I have done; so God hath re<g ref="char:EOLhyphen"/>quited me.</p>
+            </q>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declamation">
+            <pb facs="tcp:160351:2"/>
+            <pb n="1" facs="tcp:160351:2"/>
+            <head>A DECLAMATION Against M<seg rend="sup">r</seg>. CHALLENER, The Crimes of the Times, and the Manners <hi>of You know whom.</hi>
+            </head>
+            <p>VVHat <hi>Cicero</hi> said to <hi>Cataline,</hi> and his Con<g ref="char:EOLhyphen"/>federates in their Conspiracie; I say the same to Master <hi>Challener,</hi> that hee may tell it to his Companions in the Covenant,
+<q>
+                  <l>Quons{que} tandem abutêre patientiâ nostrâ?</l>
+               </q>
+            </p>
+            <p>It must never be forgotten how those venerable Wo<g ref="char:EOLhyphen"/>men came in simplicity of heart, to the Parliament at <hi>Westminster</hi> to sue for Peace.</p>
+            <p>It must never be forgotten to all Posterity in what measure those innocent Women were dealt withall by you, some being cruelly wounded, some most barba<g ref="char:EOLhyphen"/>rously slaine.</p>
+            <p>Will neither the feare of God? nor love to Mankind? nor your affections to your native Countrey move you (at least) to a charitable compassion? if not to a sorrow<g ref="char:EOLhyphen"/>full compunction?</p>
+            <p>Will not the bloud of my Lord of <hi>Strafford;</hi> Nor the bloud of my Lord of <hi>Canterbury;</hi> Nor the bloud of <hi>Tomkins</hi> and <hi>Challoner;</hi> Nor the bloud of <hi>Yeomans</hi> and <hi>Boucher?</hi> Nor all the innocent bloud of so many thou<g ref="char:EOLhyphen"/>sands,
+<pb n="2" facs="tcp:160351:3"/>which have beene sacrificed in these late inte<g ref="char:EOLhyphen"/>stine broyles, provoke you to seeke Peace, nor invite you to embrace Peace, when it is so freely offered unto you. <hi>O Tempora! O Mores!</hi>
+            </p>
+            <p>In the sharp language of <hi>Cicero,</hi> I did begin with you, and in the blunt honestie of <hi>Cato,</hi> I intend to proceed.</p>
+            <p>As the base and spungie offall of man (being the com<g ref="char:EOLhyphen"/>mon sewer of indigested excrements) can by no meanes returne backe any nourishment into the more nobler part, the Stomacke, from whence it first received it; no more can the body possibly subsist 'and live without the influence, and distillation from its native and pro<g ref="char:EOLhyphen"/>per head.</p>
+            <p>And as in Bodies Natural, so in Politick, King <hi>Charles</hi> is the essentiall head, of our Pollitique Body, He is the true Lord and owner of these his Kingdomes by right of Inheritance, He holds his Title in Fee-simple, by the blessed <hi>Tenour in capite,</hi> from God Almighty, who is <hi>Lord Paramount</hi> of all. To God alone is the King onely obliged to pay his Homage, and oweth not the smal<g ref="char:EOLhyphen"/>lest <hi>Quit-rent</hi> whatsoever to my Lord Chancellor of <hi>Scotland</hi> his <hi>Machivillian</hi> Eloquence, nor to Mr. <hi>Chal<g ref="char:EOLhyphen"/>lener</hi> his home-spun slovenly malice.</p>
+            <p>It is a bold Assertion between you both, to enter into a saucy dispute about the disposing of the Sacred person of the King, as if he were a Child, a Ward, or an Ideot; when God can beare him witnesse, Hee hath more Wit, more Judgement, and more Honestie in Him, then any of you all, or all of you together.</p>
+            <p>Here let me interpose with my short, and true defini<g ref="char:EOLhyphen"/>tion of him, both as He is a Man, and as He is our King. As He is a Man, me thinks I heare my Saviour saluting him, as He did <hi>Nathanael, Behold a man indeed in whom there is no guile.</hi> And all the world that knowes him
+<pb n="3" facs="tcp:160351:3"/>must acknowledge with the Poet, He is <hi>Homo intiger vi<g ref="char:EOLhyphen"/>tae, sceleris{que} purus,</hi> and I wish to God, from my heart, I could say the same of any of you.</p>
+            <p>Now as He is our King, how can both Houses, as M. <hi>Challener</hi> saith; or how can both Kingdoms, as my Lord Chancellor of <hi>Scotland</hi> would have it? dare to take up<g ref="char:EOLhyphen"/>on them to dispose of him, who hath under God the sole disposall of us all, with this limitation; with the joynt consent, and wholesome advise of the honest and great Councell of each Kingdome, and this is both Law and Gospell.</p>
+            <p>Inconsistent and incompatible are two very good words, if rightly applyed, but I am bound to beleeve the Devill himselfe did work very strongly upon Master <hi>Challeners</hi> weaknesse, rather then that his owne naturall <hi>Genius</hi> could be possest with such a Malignancy of spi<g ref="char:EOLhyphen"/>rit, as to make so vilde, so base, and so ungodly an appli<g ref="char:EOLhyphen"/>cation of them both.</p>
+            <p>I had almost forgotten that remarkable Badge of your through Reformation, I meane your Covenant, and the two notorious Commitees of both Kingdoms: Give me leave to tell you, what your Covenant was at first, and what it now is; It was at first by vertue of Inchantment, a lowsie thread-bare <hi>Scotch</hi> Chaplin, who growing wea<g ref="char:EOLhyphen"/>rie of the slender stipend of a bare <hi>Scotch</hi> Mark <hi>per annum</hi> came over into <hi>England</hi> to seek 'its further Advancment, where it became a Tub-preacher, and so rendring it selfe uncapable of holy Orders, did take upon it to preach and teach on its own accord.</p>
+            <p>The first attempt by which this Covenant sought to ingratiate it selfe into the people, was by consumma<g ref="char:EOLhyphen"/>ting a marriage betwixt the two Commitees of both Kingdomes. The match was privately contracted in the
+<pb n="4" facs="tcp:160351:4"/>close Commitee, and afterwards solemnly published by Legislative power; which marriage being thus ac<g ref="char:EOLhyphen"/>complished without th'approabtion of his Ma<seg rend="sup">tie</seg>, with<g ref="char:EOLhyphen"/>out the License of our Church: and without the consent of our Laws, I doubt not but it may easily be made null by a bill of divorce, and for the farther punishment of this Inchanted Chaplaine your Covenant, let it be ba<g ref="char:EOLhyphen"/>nished out of this Kingdome for ever, and let it be confi<g ref="char:EOLhyphen"/>ned to the utmost part of Scotland, there to pine, and wast it self away upon its owne dunghill, or else let it be presently torne in pieces, in remembrance of the dis<g ref="char:EOLhyphen"/>pite which was lately done to the Kings broad Seal in the presence of both Houses.</p>
+            <p>And whereas Mr. <hi>Challener</hi> saith, the Houses are ac<g ref="char:EOLhyphen"/>comptable to none but God Almighty. I must answer him, with these few Questions.</p>
+            <p>
+               <hi>Who called, or caused you to be a Parliament? Was it not by the Soveraigne power of the King?</hi>
+            </p>
+            <p>
+               <hi>Who convened the House of Commons together? Was it not by the free suffrages, and elections of the people? Can the servants be greater then their masters?</hi>
+            </p>
+            <p>Did the King and we conferre this trust, and Authori<g ref="char:EOLhyphen"/>ty upon you? thus to Lord it over us? I tell you nay, for unlesse you speedily returne unto your wonted Allegi<g ref="char:EOLhyphen"/>ance to his Maiestie, and your dutifull affections towards us, both he and wee shall suddainly call you to a strict accompt.</p>
+            <p>Read over the Chronicles, where you shall find two Knights of the Shire were called to an Accompt by the Counties, for which they had formerly served in Par<g ref="char:EOLhyphen"/>liament; and both of them were hanged up for their la<g ref="char:EOLhyphen"/>bours.</p>
+            <p>What are you so transported, and pust up with pride
+<pb n="5" facs="tcp:160351:4"/>by reason of your many successes, you have lately got<g ref="char:EOLhyphen"/>ten in your new Modell of War; Must you needs stand upon your Tiptoes, and think you dance in a Net, doe but tell me of one Ordinance you have made which speakes the least sillable tending to a Reformation?</p>
+            <p>The King hath made an absolute Reformation of all abuses done under his Government, and like a gracious Prince gave us a Trienniall Parliament to boote. But a Trienniall Parliament will not serve your turnes, you must needs have an everlasting Parliament, <hi>Quis talia fando temperet a lacrimis;</hi> for with horror I speak it, as you have handled the matter, nothing stands so much in need of a thorough Reformation, as your everlasting Parliament. For if the King and you should be reconci<g ref="char:EOLhyphen"/>led to morrow; and that He, and you should joyn toge<g ref="char:EOLhyphen"/>ther, to governe us by an everlasting Parliament: Wee whose Ancestors have ever been the freest Subjects un<g ref="char:EOLhyphen"/>der heaven, should become the meer'st slaves upon the face of the earth.</p>
+            <p>Beware of <hi>Lex talionis.</hi>
+            </p>
+            <p>To explaine my selfe, I never did heare nor read of any Prince, any great man, nor any great body of a Councell, dare to doe any Act illegall or extrajudiciall, But God Almighty did either retaliate it with his owne immediate vengeance, or else they were met withall by the knowne laws of the Land, in a condigne punishment.</p>
+            <p>Sir <hi>John Hotham,</hi> and his son have tasted of the one already: And take you heed, least some, if not all of you, doe not at last feele the smart of the other,
+<q>
+                  <l>Faelix quem faciunt aliena pericula cantúm.</l>
+               </q>
+            </p>
+            <p>To prevent the like ensuing dangers which must needs fall upon our heads; I will give you these three remarkable examples of <hi>Lex talionis.</hi>
+            </p>
+            <p n="1">
+               <pb n="6" facs="tcp:160351:5"/> 1. In the dayes of K. <hi>Henry</hi> the 8. The Lord Chancel<g ref="char:EOLhyphen"/>lor <hi>Cromwell</hi> perswaded the King, that by vertue of his prerogative, he might put any man to death, and bring it to a tryall at law afterwards, and did not the same <hi>Lex talionis</hi> light upon him, when he was the onely man that died so?</p>
+            <p n="2">2. <hi>Barnavill</hi> the chiefe Advocate of <hi>Holland,</hi> and one of the States, conceived a displeasure against a younker, and nothing would serve his turne (though it were in his owne cause) but corporall punishment. The privi<g ref="char:EOLhyphen"/>ledge of the Gentlemans birth was pleaded by his Law<g ref="char:EOLhyphen"/>yers; Notwithstanding <hi>Barnavill</hi> being prevalent with the Board of States, perswaded them; It would be an addition to their greatnesse to make a President in this kinde, and so a President was made, and the Gentleman was whipt.</p>
+            <p>Not long after a Competition grew betwixt the Prince of <hi>Orenge,</hi> and great <hi>Barnavill,</hi> wherein the Prince having the Military party of his side, got the better of him, so that <hi>Barnavill</hi> was confined; and by the same rule of <hi>Barnavills</hi> formerly making a President, to whip that Gentleman, a President was made to cut off his head; ther's <hi>Lex talionis</hi> for him.</p>
+            <p n="3">3. My Lord of <hi>Strafford,</hi> when he was Sir <hi>Thomas Wentworth,</hi> and Oracle of the House of Commons, per<g ref="char:EOLhyphen"/>swaded them, there was no other way to cut off the Duke of <hi>Buckingham,</hi> but by accusing him of States sug<g ref="char:EOLhyphen"/>gestions, under the name of high Treason; by which meanes if they could once sequester him from the Kings elbow by confinement; He doubted not but accusati<g ref="char:EOLhyphen"/>ons would come enough against him, to his further de<g ref="char:EOLhyphen"/>struction, and did not the same <hi>Lex talionis</hi> light upon him. <hi>Jam proximus ardet Ucaligon.</hi> It is high time then
+<pb n="7" facs="tcp:160351:5"/>for every man severally, and all of us together joyntly to looke about us, least <hi>Lex talionis</hi> overtake us.</p>
+            <p>The degenerate House of Lords have altogether de<g ref="char:EOLhyphen"/>clined their true fountain of Honour, the King; from whose cleare streames they had wont to suck both there honour and honesty, by his vertuous example: And these pittifull Lords, having throwne themselves into mire, and muddy Affections of the Common Rabble, are now glad to drink of the puddle water of scorne, and contempt from the meanest Rascalls; Ther's <hi>Lex talionis</hi> in part for them.</p>
+            <p>The adulterate House of Commons have so deviated from the honest principles, and integrity of their Ancest<g ref="char:EOLhyphen"/>ors, and having left their righteous middle way; in which they had wont to walke in; Tire themselves out with halting between two cripples, two contraries of ex<g ref="char:EOLhyphen"/>treames: for which their black Consciences, they are forc'd to sit down, some leaning to the Presbyterian madnesse on the one side; some to the Independent fol<g ref="char:EOLhyphen"/>ly on the other; Ther's <hi>Lex talionis</hi> in part for them.</p>
+            <p>The proud Metropolis of this Kingdome, the City of <hi>London</hi> of all other cannot escape Scot-free, for this Citie hath beene from the beginning the venerable Bawd to all the Parliaments designes. It hath fed them with million upon million, upon the publike Faith, by which meanes it manifesteth it selfe to be the cheife fomenter of this unnaturall War, and the grand Abettor in this un<g ref="char:EOLhyphen"/>happy difference betwixt King, and people.</p>
+            <p>It is still fresh in memorie, how this City sent forth its spurious scum in multitudes to cry downe Bishops, roote, and branch, who like sholes of Herrings, or swarmes of Hornets, lay hovering about the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourt with lying Pamphlets, and scandalous Pasquills untill they for'd the King from his throne, and banish the
+<pb n="8" facs="tcp:160351:6"/>Queene from His Bed, and afterwards out of this King<g ref="char:EOLhyphen"/>dome; besides this City still continues to this day dan<g ref="char:EOLhyphen"/>cing attendance with their Traine bands, to guard the causelesse feares, and jealousies of both Houses: they come creeping with their Petitions to them, whom they might command: would they but command their Bands to slay at home, they may thank themselves for all the delayes, and denyalls, they have received.</p>
+            <p>What guerdon hath this City got for all its costs and paines? I will tell it, This City is stiled in the worlds opinion, the <hi>Parliaments Asse,</hi> on whose backe the Mem<g ref="char:EOLhyphen"/>bers of both Houses ride at pleasure, laying on load up<g ref="char:EOLhyphen"/>on load, what they think fit. Now good City, if you must continue still to be an Asse, learne of your Prede<g ref="char:EOLhyphen"/>cessor, <hi>Balaams</hi> Asse, and tell your great masters, they have gone astray, tell them so freely, for they dare not beate you for it as <hi>Balaam</hi> did.</p>
+            <p>Oh my poore Countrey, miserable Countrey wret<g ref="char:EOLhyphen"/>ched Countrey, that hath these five yeares past in inno<g ref="char:EOLhyphen"/>cencie, drunk of this bitter cup, the dregs whereof is re<g ref="char:EOLhyphen"/>served in store by <hi>Lex talionis</hi> for the stupid, senselesse City of <hi>London. If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes,</hi> Luk. 19. <hi>vers.</hi> 42.</p>
+            <p>Much might be said concerning the Prince Elector, but little shall serve the turne, <hi>Siingratum dixeris, omnia.</hi> He hath gotten the repute of late to become a precious Babe of Grace, by his Princely faculty of snuffing up the Back-breath of the Reverend Synod, and in a blind devotion takes it for incense; He, good man, not consi<g ref="char:EOLhyphen"/>dering his Royall Unkle, nor his owne peculiar interest, which he might justly challenge to himselfe in <hi>Germany,</hi> but contents himselfe here with my Lord <hi>Peters</hi> whole Estate.</p>
+            <pb n="9" facs="tcp:160351:6"/>
+            <p> Hitherto have we seen what hath betyded others, and we cannot chuse but fore-see what must betide us, unlesse we betake our selves to a speedy and preventing Reme<g ref="char:EOLhyphen"/>dy; Loe here it is.</p>
+            <list>
+               <item>1 Let all things be restored in <hi>Statu quo prius.</hi>
+               </item>
+               <item>2 Let the <hi>Scots</hi> in the name of God, or the Devill that sent them, goe home.</item>
+               <item>3. Let King <hi>Charles</hi> (in spite of M<seg rend="sup">r</seg>. <hi>Challener</hi>) with honour and safty come home, that every one of us may live quietly at home, and this I am sure is very consistent with the honour of God, and very compatible with the safety, and tranquillity of the Nation.</item>
+            </list>
+            <p>
+               <hi>Salus Regis, &amp; salus Reipublicae</hi> are not onely Twins, but <hi>Ge<g ref="char:EOLhyphen"/>mini,</hi> Inseperable, and individuall; Cursed be those that have hi<g ref="char:EOLhyphen"/>therto divided them, and blessed be they who seek to Cement, and re-unite them together.</p>
+            <p>
+               <hi>Three things have been the bane of Monarchie.</hi>
+            </p>
+            <list>
+               <item>1 First, Weekely Lectures.</item>
+               <item>2 Corporations.</item>
+               <item>3 Trained-bands.</item>
+            </list>
+            <p>
+               <hi>And three things will be the baine of Anarchy.</hi>
+            </p>
+            <list>
+               <item>1 First, your new Modell of Religion.</item>
+               <item>2 Your new Modell of Government.</item>
+               <item>3 Your new Broad Seale.</item>
+            </list>
+            <p>Let three things be undone by you, which have undone us all, and the King shall grant us three things in lieu of them, which shall re-make us.</p>
+            <p>
+               <hi>The three things to be undone by you.</hi>
+            </p>
+            <list>
+               <item>1 First, Let your close Committee, and <hi>Legislative</hi> power which fits in the Chaire thereof (contrary to Law) be damn'd for ever.</item>
+               <item>2. Let all the Cavaleers be freed from their illegall Sequestrati<g ref="char:EOLhyphen"/>ons.</item>
+               <item>3. Let your black Propositions which you lately sent to the King be recal'd back, and burnt by the Hangman.</item>
+            </list>
+            <p>
+               <hi>Three things which the King is to doe.</hi>
+            </p>
+            <list>
+               <item>1. That His Majestie will be pleased to renew, ratifie, and en<g ref="char:EOLhyphen"/>large our Petition of Right.</item>
+               <item>2. That He will grant you an <hi>Act of oblivion.</hi>
+               </item>
+               <item>3. That He will remarry His Royall Prerogative, and <hi>Magna Charta</hi> together. <hi>Then seeke peace, and ensue it, and the God
+<pb n="10" facs="tcp:160351:7"/>of peace will grant it.</hi> Now that we may avoid those Numbers three, which we finde to be ommous, and embrace those Num<g ref="char:EOLhyphen"/>bers three which are propitious; Let us apply our selves to that blessed Number three which is in Heaven: and let not your illi<g ref="char:EOLhyphen"/>terate Synod, date to meddle with that any more, by any audaci<g ref="char:EOLhyphen"/>ous disputation; but rather let us all appeale to him, by an hum<g ref="char:EOLhyphen"/>ble Adoration: That so that blessed Trinitie, in unitie may grant Peace to every mans conscience in particular, Peace to the whole Kingdome in generall, and Peace and joy eternall to us here<g ref="char:EOLhyphen"/>after.</item>
+            </list>
+            <closer>
+               <salute>Farewell M<seg rend="sup">r</seg>. Challener.</salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter to the Army.</head>
+            <p>HOw can you expect an Act of Indemnity? so long as the King remaines in Captivity; the Parliament cannot grant it unto you, for they cannot give it to themselves.</p>
+            <p>How can you expect money? when you know the Parliament hath been so prodigall in the distribution of such large Proporti<g ref="char:EOLhyphen"/>ons to one another, that they have little left to reward you withall.</p>
+            <p>Is it liberty of conscience you speak for? that you know rests onely in the Kings breast.</p>
+            <p>Restore the King to his Throne againe, and all these things shall be added to you.</p>
+            <p>If you neglect this faire opportunitie, The vengeance of God shall dogge you at the heeles. Instead of a Trophie for all your vi<g ref="char:EOLhyphen"/>ctories, you shall render your selves slaves to the Presbyterian Bondage, who like the <hi>Egyptian Task-masters</hi> shall compell you to make Brick in their full tale, and without giving you stubble.</p>
+            <p>To whom then will you fly for succour, God will abhominate you, and will not help you; Man (especially, <hi>Englishmen</hi>) will scorne you, and laugh at your misery.</p>
+            <p>
+               <hi>Behold, I have set this day before your eyes,</hi> Honour, <hi>and</hi> Dishonour, <hi>being the two sole Rewards of all humane Actions. Consider this timely, and be wise.</hi>
+            </p>
+            <closer>
+               <salute>Be it unto you according to your Merit.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
